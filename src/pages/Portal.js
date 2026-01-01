@@ -74,7 +74,7 @@ const Portal = ({ user, onSignOut }) => {
           <div className="flex items-center gap-6">
             <div className="flex items-center gap-2">
               <Phone className="w-4 h-4" />
-              <span>+1 (555) 123-4567</span>
+              <span>+91-9852286918</span>
             </div>
             <div className="hidden md:flex items-center gap-2">
               <Mail className="w-4 h-4" />
@@ -82,7 +82,7 @@ const Portal = ({ user, onSignOut }) => {
             </div>
           </div>
           <div className="flex items-center gap-4">
-            <span>Free shipping for orders over $100</span>
+            <span>Free shipping for orders over RS.100</span>
           </div>
         </div>
       </div>
@@ -1019,7 +1019,7 @@ const Portal = ({ user, onSignOut }) => {
             <ul className="space-y-3 text-gray-400 text-sm">
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4" />
-                <span>+1 (555) 123-4567</span>
+                <span>+91-9852286918</span>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4" />
@@ -1027,7 +1027,7 @@ const Portal = ({ user, onSignOut }) => {
               </li>
               <li className="flex items-center gap-2">
                 <MapPin className="w-4 h-4" />
-                <span>123 Commerce St, NY</span>
+                <span>Mysuru, Karnatka</span>
               </li>
             </ul>
             <div className="flex gap-4 mt-4">
@@ -1038,7 +1038,7 @@ const Portal = ({ user, onSignOut }) => {
           </div>
         </div>
         <div className="border-t border-gray-800 pt-8 text-center text-gray-400 text-sm">
-          <p>&copy; 2024 PORTAL. All rights reserved. Designed with ❤️ for excellence.</p>
+          <p>&copy; 2026 PORTAL. All rights reserved.</p>
         </div>
       </div>
     </footer>

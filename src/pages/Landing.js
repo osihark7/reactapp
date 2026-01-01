@@ -31,7 +31,7 @@ const Landing = () => {
                     <div className="flex items-center gap-6">
                         <div className="flex items-center gap-2">
                             <Phone className="w-4 h-4" />
-                            <span className="hidden sm:inline">+1 (555) 123-4567</span>
+                            <span className="hidden sm:inline">+91-9852286918</span>
                         </div>
                         <div className="hidden md:flex items-center gap-2">
                             <Mail className="w-4 h-4" />
@@ -303,7 +303,7 @@ const Landing = () => {
                             <ul className="space-y-3 text-gray-400 text-sm">
                                 <li className="flex items-center gap-2">
                                     <Phone className="w-4 h-4" />
-                                    <span>+1 (555) 123-4567</span>
+                                    <span>+91-9852286918</span>
                                 </li>
                                 <li className="flex items-center gap-2">
                                     <Mail className="w-4 h-4" />
@@ -311,13 +311,13 @@ const Landing = () => {
                                 </li>
                                 <li className="flex items-center gap-2">
                                     <MapPin className="w-4 h-4" />
-                                    <span>123 Business Ave, NY</span>
+                                    <span>Mysuru, Karnatka</span>
                                 </li>
                             </ul>
                         </div>
                     </div>
                     <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-                        <p className="text-gray-400 text-sm">© 2024 Portal. All rights reserved.</p>
+                        <p className="text-gray-400 text-sm">© 2026 Portal. All rights reserved.</p>
                         <div className="flex items-center gap-4">
                             <a href="#" className="text-gray-400 hover:text-white transition-colors">
                                 <Facebook className="w-5 h-5" />
